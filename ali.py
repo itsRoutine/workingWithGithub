@@ -1,0 +1,2 @@
+def printAli():
+    print("ali")
